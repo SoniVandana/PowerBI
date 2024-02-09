@@ -1,0 +1,121 @@
+﻿Avg Temp,Key,Month,MonthNumber,Region,Temperature Range
+71.6,Australia1,Jan,1,Australia,Hot
+62.6,Australia10,Oct,10,Australia,Warm
+66.2,Australia11,Nov,11,Australia,Warm
+69.80000000000001,Australia12,Dec,12,Australia,Warm
+71.6,Australia2,Feb,2,Australia,Hot
+69.80000000000001,Australia3,Mar,3,Australia,Warm
+64.4,Australia4,Apr,4,Australia,Warm
+59,Australia5,May,5,Australia,Warm
+53.6,Australia6,June,6,Australia,Cool
+53.6,Australia7,Jul,7,Australia,Cool
+55.400000000000006,Australia8,Aug,8,Australia,Warm
+59,Australia9,Sep,9,Australia,Warm
+14,Canada1,Jan,1,Canada,Cold
+48.2,Canada10,Oct,10,Canada,Cool
+35.6,Canada11,Nov,11,Canada,Cold
+19.4,Canada12,Dec,12,Canada,Cold
+15.8,Canada2,Feb,2,Canada,Cold
+26.6,Canada3,Mar,3,Canada,Cold
+42.8,Canada4,Apr,4,Canada,Cool
+55.400000000000006,Canada5,May,5,Canada,Warm
+64.4,Canada6,June,6,Canada,Warm
+69.80000000000001,Canada7,Jul,7,Canada,Warm
+68,Canada8,Aug,8,Canada,Warm
+59,Canada9,Sep,9,Canada,Warm
+30.5,Central1,Jan,1,Central,Cold
+54.5,Central10,Oct,10,Central,Cool
+42.2,Central11,Nov,11,Central,Cool
+32.3,Central12,Dec,12,Central,Cold
+31.9,Central2,Feb,2,Central,Cold
+41.9,Central3,Mar,3,Central,Cool
+53.4,Central4,Apr,4,Central,Cool
+60.2,Central5,May,5,Central,Warm
+73,Central6,June,6,Central,Hot
+74.6,Central7,Jul,7,Central,Hot
+72.4,Central8,Aug,8,Central,Hot
+68,Central9,Sep,9,Central,Warm
+37.4,France1,Jan,1,France,Cold
+51.8,France10,Oct,10,France,Cool
+44.6,France11,Nov,11,France,Cool
+39.2,France12,Dec,12,France,Cold
+39.2,France2,Feb,2,France,Cold
+44.6,France3,Mar,3,France,Cool
+50,France4,Apr,4,France,Cool
+57.2,France5,May,5,France,Warm
+62.6,France6,June,6,France,Warm
+66.2,France7,Jul,7,France,Warm
+64.4,France8,Aug,8,France,Warm
+60.8,France9,Sep,9,France,Warm
+30.2,Germany1,Jan,1,Germany,Cold
+46.4,Germany10,Oct,10,Germany,Cool
+39.2,Germany11,Nov,11,Germany,Cold
+33.8,Germany12,Dec,12,Germany,Cold
+33.8,Germany2,Feb,2,Germany,Cold
+39.2,Germany3,Mar,3,Germany,Cold
+46.4,Germany4,Apr,4,Germany,Cool
+55.400000000000006,Germany5,May,5,Germany,Warm
+62.6,Germany6,June,6,Germany,Warm
+64.4,Germany7,Jul,7,Germany,Warm
+62.6,Germany8,Aug,8,Germany,Warm
+57.2,Germany9,Sep,9,Germany,Warm
+26.3,Northeast1,Jan,1,Northeast,Cold
+47.2,Northeast10,Oct,10,Northeast,Cool
+38.1,Northeast11,Nov,11,Northeast,Cold
+28,Northeast12,Dec,12,Northeast,Cold
+25.4,Northeast2,Feb,2,Northeast,Cold
+31.4,Northeast3,Mar,3,Northeast,Cold
+48.1,Northeast4,Apr,4,Northeast,Cool
+52.8,Northeast5,May,5,Northeast,Cool
+66.8,Northeast6,June,6,Northeast,Warm
+70.4,Northeast7,Jul,7,Northeast,Hot
+66,Northeast8,Aug,8,Northeast,Warm
+61.2,Northeast9,Sep,9,Northeast,Warm
+25.8,Northwest1,Jan,1,Northwest,Cold
+47.6,Northwest10,Oct,10,Northwest,Cool
+41,Northwest11,Nov,11,Northwest,Cool
+27.5,Northwest12,Dec,12,Northwest,Cold
+33.7,Northwest2,Feb,2,Northwest,Cold
+36.6,Northwest3,Mar,3,Northwest,Cold
+41.1,Northwest4,Apr,4,Northwest,Cool
+53.3,Northwest5,May,5,Northwest,Cool
+58.3,Northwest6,June,6,Northwest,Warm
+67.3,Northwest7,Jul,7,Northwest,Warm
+66.1,Northwest8,Aug,8,Northwest,Warm
+58,Northwest9,Sep,9,Northwest,Warm
+45,Southeast1,Jan,1,Southeast,Cool
+62,Southeast10,Oct,10,Southeast,Warm
+51.5,Southeast11,Nov,11,Southeast,Cool
+50.7,Southeast12,Dec,12,Southeast,Cool
+50.6,Southeast2,Feb,2,Southeast,Cool
+55,Southeast3,Mar,3,Southeast,Warm
+62.1,Southeast4,Apr,4,Southeast,Warm
+68.9,Southeast5,May,5,Southeast,Warm
+78.4,Southeast6,June,6,Southeast,Hot
+78.8,Southeast7,Jul,7,Southeast,Hot
+77.8,Southeast8,Aug,8,Southeast,Hot
+73.8,Southeast9,Sep,9,Southeast,Hot
+29.3,Southwest1,Jan,1,Southwest,Cold
+54.1,Southwest10,Oct,10,Southwest,Cool
+44.6,Southwest11,Nov,11,Southwest,Cool
+33.3,Southwest12,Dec,12,Southwest,Cold
+36.1,Southwest2,Feb,2,Southwest,Cold
+42.9,Southwest3,Mar,3,Southwest,Cool
+49.4,Southwest4,Apr,4,Southwest,Cool
+58.1,Southwest5,May,5,Southwest,Warm
+69.8,Southwest6,June,6,Southwest,Warm
+74.5,Southwest7,Jul,7,Southwest,Hot
+72.5,Southwest8,Aug,8,Southwest,Hot
+64.4,Southwest9,Sep,9,Southwest,Warm
+41,United Kingdom1,Jan,1,United Kingdom,Cool
+55.400000000000006,United Kingdom10,Oct,10,United Kingdom,Warm
+48.2,United Kingdom11,Nov,11,United Kingdom,Cool
+42.8,United Kingdom12,Dec,12,United Kingdom,Cool
+42.8,United Kingdom2,Feb,2,United Kingdom,Cool
+44.6,United Kingdom3,Mar,3,United Kingdom,Cool
+50,United Kingdom4,Apr,4,United Kingdom,Cool
+55.400000000000006,United Kingdom5,May,5,United Kingdom,Warm
+60.8,United Kingdom6,June,6,United Kingdom,Warm
+64.4,United Kingdom7,Jul,7,United Kingdom,Warm
+64.4,United Kingdom8,Aug,8,United Kingdom,Warm
+60.8,United Kingdom9,Sep,9,United Kingdom,Warm
